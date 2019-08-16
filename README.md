@@ -4,6 +4,8 @@ by Stuart Miller
 
 A template for building data analysis projects based on my projects.
 
+Don't forget to add a gitignore file
+
 
 Example-ish:
 
