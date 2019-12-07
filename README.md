@@ -4,10 +4,10 @@ by Stuart Miller
 
 A template for building data analysis projects based on my projects.
 
-Don't forget to add a gitignore file
+Don't forget to add a [gitignore file](https://github.com/github/gitignore).
 
 
-Example-ish:
+Example Top README:
 
 # Project Title
 
