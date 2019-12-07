@@ -3,8 +3,12 @@
 by Stuart Miller
 
 A template for building data analysis projects based on my projects.
+If you like this template, please give it a star.
 
-Don't forget to add a [gitignore file](https://github.com/github/gitignore).
+Have an idea to add? -> Open a pull request.
+
+* To [create a repo from this template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template), click on the green button that says "Use This Template"
+* Don't forget to add a [gitignore file](https://github.com/github/gitignore).
 
 
 Example Top README:
